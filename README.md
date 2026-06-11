@@ -1,3 +1,3 @@
 # new-reposetory
-this is my first repo 
+this is my first repo.
 author - nitesh.k 
